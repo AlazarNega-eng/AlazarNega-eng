@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm expanding my knowledge of web and app development.<br><br>I'm looking to collaborate on projects that involve creative problem-solving, and generating innovative ideas.<br><br>I'm seeking opportunities to apply my knowledge in real-world projects.<br><br>I'm currently learning about the latest advancements in tech stacks, such as Next.js and Prisma.<br>I'd like you to ask me about the most challenging ethical dilemmas in tech development.<br><br>I'm a self-taught, continuous learner.
+Accomplished Electrical and Computer Engineering Graduate with a specialization in software and
+application development, complemented by hands-on experience in DevOps methodologies and
+cloud technologies. Proficient in full-stack development, CI/CD pipeline implementation, and architecting scalable web applications. Committed to writing clean, maintainable code to effectively resolve
+complex software challenges.
+
 
 
 ## 🌐 Socials:
